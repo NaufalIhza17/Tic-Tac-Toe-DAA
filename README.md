@@ -5,6 +5,6 @@ Our program contained DFS implementation from DAA class
 
 
 Group Members:
-Mochammad Naufal Ihza Syahzada
-Eric Azka Nugroho
-Satria Surya Prana
+- Mochammad Naufal Ihza Syahzada
+- Eric Azka Nugroho
+- Satria Surya Prana
